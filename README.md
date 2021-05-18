@@ -1,2 +1,2 @@
-# Recipe_APP
-Recipe App with React
+Recipe app using React
+
